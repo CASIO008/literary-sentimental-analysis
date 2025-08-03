@@ -28,6 +28,7 @@ Este projeto utiliza o serviço **Text Analytics** da Microsoft Azure (dentro do
 ---
 
 ## 📁 Estrutura do Projeto
+'''
 
 literary-sentiment-analysis
 │
@@ -48,5 +49,5 @@ literary-sentiment-analysis
 ├── main.py 
 └── README.md
 
-
+'''
 
