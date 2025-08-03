@@ -17,6 +17,7 @@ Este projeto utiliza o serviço **Text Analytics** da Microsoft Azure (dentro do
 
 ## 🔧 Tecnologias e Ferramentas
 
+- [Azure Speech Studio](https://speech.microsoft.com/)
 - [Azure Language Studio](https://language.azure.com/)
 - Python 3.10+
 - Bibliotecas Python:
@@ -28,7 +29,7 @@ Este projeto utiliza o serviço **Text Analytics** da Microsoft Azure (dentro do
 
 ## 📁 Estrutura do Projeto
 
-literary-sentiment-analysis/
+`literary-sentiment-analysis/
 │
 ├── texts/
 │ ├── dom_casmurro.txt
@@ -45,6 +46,6 @@ literary-sentiment-analysis/
 ├── .env.example 
 ├── .gitignore 
 ├── main.py 
-└── README.md 
+└── README.md`
 
 
