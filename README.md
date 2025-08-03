@@ -29,16 +29,16 @@ Este projeto utiliza o serviço **Text Analytics** da Microsoft Azure (dentro do
 
 ## 📁 Estrutura do Projeto
 
-`literary-sentiment-analysis/
+literary-sentiment-analysis
 │
-├── texts/
+├── texts
 │ ├── dom_casmurro.txt
 │ └── o_alquimista.txt
 │
-├── scripts/ 
+├── scripts 
 │ └── analyze_sentiment.py 
 │
-├── results/ 
+├── results 
 │ ├── o_alquimista_analysis.json 
 │ └── o_alquimista_analysis.json
 |
@@ -46,6 +46,7 @@ Este projeto utiliza o serviço **Text Analytics** da Microsoft Azure (dentro do
 ├── .env.example 
 ├── .gitignore 
 ├── main.py 
-└── README.md`
+└── README.md
+
 
 
