@@ -1,4 +1,4 @@
-# 🗣️ Literary Sentiment Analysis
+# 🗣️ Análise De Sentimento Literário
 
 ## 📖 Análise de Sentimentos em Textos Literários com Azure Language Studio
 
