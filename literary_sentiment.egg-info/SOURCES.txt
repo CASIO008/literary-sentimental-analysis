@@ -1,0 +1,9 @@
+README.md
+setup.py
+literary_sentiment.egg-info/PKG-INFO
+literary_sentiment.egg-info/SOURCES.txt
+literary_sentiment.egg-info/dependency_links.txt
+literary_sentiment.egg-info/requires.txt
+literary_sentiment.egg-info/top_level.txt
+scripts/__init__.py
+scripts/analyze_sentiment.py
