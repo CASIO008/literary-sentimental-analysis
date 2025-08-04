@@ -48,3 +48,12 @@ literary-sentiment-analysis<br>
 ├── main.py <br>
 └── README.md<br>
 
+## ✅ Resultados
+
+`baseado em reconhecimento de emoções, onde regiões com maior porcentagem se é considerado pela I.A como ápice emocional.`
+
+<img width="638" height="412" alt="image" src="https://github.com/user-attachments/assets/4db7cc87-c692-4b19-88f8-888ae87be970" />
+<img width="621" height="294" alt="image" src="https://github.com/user-attachments/assets/f4be0811-8f40-4418-b906-1f41777087e5" />
+<img width="794" height="377" alt="image" src="https://github.com/user-attachments/assets/79ca399f-c145-4a2a-aa61-dc6da5720ec1" />
+
+
